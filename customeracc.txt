@@ -1,0 +1,3 @@
+CUS00001:Ning:NewYork:98318:loh@gmail.com:Savings:2218
+CUS00002:HEHE:Brooklyn:292931322:lni@gmail.com:Current:36360
+CUS00004:Kenn:Malaysia:22:ken@gmail.com:Savings:100
